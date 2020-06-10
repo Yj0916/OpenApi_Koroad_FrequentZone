@@ -1,16 +1,8 @@
-# frequentzone
+# 보행자무단횡단 사고다발지역정보 API
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+http://taas.koroad.or.kr/api/selectJaywalkingDataSet.do#
+spot_nm,lo_crd,la_crd만
