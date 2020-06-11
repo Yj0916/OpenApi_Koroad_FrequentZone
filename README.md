@@ -5,4 +5,3 @@ A new Flutter application.
 ## Getting Started
 
 http://taas.koroad.or.kr/api/selectJaywalkingDataSet.do#
-spot_nm,lo_crd,la_crd만
